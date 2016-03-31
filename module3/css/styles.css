@@ -1,0 +1,58 @@
+nav.navbar {
+   background-color: #ffb90f;
+   border-bottom: 2px solid black;
+}
+
+.navbar-default .navbar-collapse {
+  border-color: black;
+}
+
+.navbar-nav {
+	margin: 0px -15px;
+}
+
+.navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus {
+	background-color: #fff8e7;
+}
+
+.navbar-default .navbar-toggle {
+	border-color: black;
+}
+
+.navbar-default .navbar-nav > li > a {
+  color: black;
+  font-size: 1.25em;
+  border: 1px solid black;
+}
+
+.navbar-default .navbar-nav > li > a:hover {
+	color: #5e5e5e;
+}
+
+.navbar-default .navbar-brand, .navbar-default .navbar-brand:hover {
+  color: black;
+  font-weight: 500;
+  font-size: 1.75em;
+}
+
+#top {
+   font-size: 1.75em;
+}
+.menu-section {
+   position: relative;
+   border: 1px solid black;
+   background: #fff8e7;
+   color: black;
+   margin-top: 15px;
+   margin-bottom: 15px;
+}
+
+.menu-section h3 {
+   font-size: 1.25em;
+}
+.menu-section p {
+   padding: 0 15px;   
+}
+
+
+
